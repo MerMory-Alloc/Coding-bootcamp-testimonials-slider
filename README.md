@@ -5,7 +5,7 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
 
 ## Links
 
-- Live Site URL: [Add live site URL here](https://mermory-alloc.github.io/Coding-bootcamp-testimonials-slider/)
+- Live Site URL: [Coding bootcamp testimonials slider](https://mermory-alloc.github.io/Coding-bootcamp-testimonials-slider/)
 
 
 ## The challenge
